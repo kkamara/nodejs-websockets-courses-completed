@@ -1,6 +1,6 @@
 ## nodejs-websockets-courses-completed
 
-NodeJS WebSockets courses I've completed (in order). Some projects use ReactJS for the frontend app.
+NodeJS WebSockets courses I've completed (in order). WebSockets: the power behind live chat. Some projects use ReactJS for the frontend app.
 
 * [websockets-demo](https://github.com/kkamara/websockets-demo)
 * [websockets-demo-2](https://github.com/kkamara/websockets-demo-2)
